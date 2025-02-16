@@ -1,0 +1,7 @@
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación de Colas en C#\Implementación de Colas en C#\bin\Debug\Implementación de Colas en C#.exe.config
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación de Colas en C#\Implementación de Colas en C#\bin\Debug\Implementación de Colas en C#.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación de Colas en C#\Implementación de Colas en C#\bin\Debug\Implementación de Colas en C#.pdb
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación de Colas en C#\Implementación de Colas en C#\obj\Debug\Implementación de Colas en C#.csproj.AssemblyReference.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación de Colas en C#\Implementación de Colas en C#\obj\Debug\Implementación de Colas en C#.csproj.CoreCompileInputs.cache
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación de Colas en C#\Implementación de Colas en C#\obj\Debug\Implementación de Colas en C#.exe
+C:\Users\fqop0\OneDrive\Desktop\Estructura de Datos\Semestre 1\Implementación de Colas en C#\Implementación de Colas en C#\obj\Debug\Implementación de Colas en C#.pdb
